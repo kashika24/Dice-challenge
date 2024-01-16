@@ -1,0 +1,5 @@
+html {
+    background: linear-gradient(purple, pink, magenta);
+    background-repeat:no-repeat;
+    height: 100%;
+}
